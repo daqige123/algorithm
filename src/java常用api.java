@@ -14,3 +14,8 @@ public class java常用api {
     // 反向排序  Collection.sort(list);
 
 }
+
+Queue<> que = new LinkedList<>();
+//  que 没有push 和pop
+//  que.add(), que.remove()
+//  que.peek() 顶点
