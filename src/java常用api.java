@@ -15,7 +15,7 @@ public class java常用api {
 
 }
 
-Queue<> que = new LinkedList<>();
+//Queue<> que = new LinkedList<>();
 //  que 没有push 和pop
 //  que.add(), que.remove()
 //  que.peek() 顶点

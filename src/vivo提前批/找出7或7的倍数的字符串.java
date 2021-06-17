@@ -1,6 +1,8 @@
-import java.util.*;
+package vivo提前批;
 
-class Main {
+import java.util.Scanner;
+
+public class 找出7或7的倍数的字符串 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 0;

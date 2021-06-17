@@ -1,6 +1,8 @@
+package vivo提前批;
+
 import java.util.Scanner;
 
-public class Main3{
+public class 背包01 {
     public static void main(String[] args) throws Exception {
         Scanner reader = new Scanner(System.in);
         // 物品的数量为N
